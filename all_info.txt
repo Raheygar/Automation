@@ -1,0 +1,3 @@
+cisco_ios:192.168.202.136:bh04308:cisco
+cisco_ios:192.168.202.145:rh04308:cisco@123
+cisco_ios:192.168.202.146:sriti:cisco@12345
